@@ -1,0 +1,6 @@
+librerias utilizadas:
+
+matplotlib
+seaborn
+yfinance
+pandas
